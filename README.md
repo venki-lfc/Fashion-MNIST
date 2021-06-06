@@ -1,5 +1,3 @@
 # Fashion-MNIST
 
-CNN Image Classification trained on Fashion-MNIST dataset
-
-Gives 91% Test Accuracy
+CNN Image Classification model created from scratch and trained on Fashion-MNIST dataset
